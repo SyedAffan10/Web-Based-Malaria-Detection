@@ -1,8 +1,8 @@
 # Web-Based-Malaria-Detection
-This is a WEB BASED MALARIA DETECTION using ARTIFICIAL INTELLIGENCE / DEEP LEARNING with around 92% accuracy with the help of Python and Machine Learning. And this is all possible by using Flask (Python Framework).
+This is a __WEB BASED MALARIA DETECTION__ using ARTIFICIAL INTELLIGENCE / DEEP LEARNING with around __92% accuracy__ with the help of Python and Machine Learning. And this is all possible by using Flask (Python Framework).
 
 # Libraries
-Some Libraries we are using in this are ___future__, __Numpy__, __Tensorflow__, __Os__, __Flask, Werkzeug__.
+Some Libraries we are using in this are __future__, __Numpy__, __Tensorflow__, __Os__, __Flask, Werkzeug__.
 
 # Home Page
 
@@ -18,12 +18,12 @@ For Testing the Malaria Disease, Hospital or Medical Company first need to __LOG
 ![](https://github.com/SyedAffan10/Web-Based-Malaria-Detection/blob/2ce219d2a90afd7d0377ac1b0e2d84b08e28b711/Demo/login%20page.png)
 
 # Register Page
-Any Hospital or Medical Company will first __REGISTER__ us to ___LOGIN__.
+Any Hospital or Medical Company will first __REGISTER__ us to __LOGIN__.
 
 ![](https://github.com/SyedAffan10/Web-Based-Malaria-Detection/blob/2ce219d2a90afd7d0377ac1b0e2d84b08e28b711/Demo/register%20page.png)
 
 # Preview Page
-Before __LOGIN__ user would not be able to access this ___PREVIEW__ for Testing the Image.
+Before __LOGIN__ user would not be able to access this __PREVIEW__ for Testing the Image.
 
 ![](https://github.com/SyedAffan10/Web-Based-Malaria-Detection/blob/2ce219d2a90afd7d0377ac1b0e2d84b08e28b711/Demo/preview%20page.png)
 
